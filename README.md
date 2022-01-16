@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi there ! I'm Engineer Jiwon Kim!
+
+![image](https://user-images.githubusercontent.com/67676024/149649152-284f7e01-1474-4a79-9e97-45ec79fc3830.png)
+#326CE5
+#2496ED
 <!--
 **goodday-g1/goodday-g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
