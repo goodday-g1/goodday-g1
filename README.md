@@ -2,7 +2,7 @@
 
 Hi there ! I'm Engineer Jiwon Kim!
 
-![image](https://user-images.githubusercontent.com/67676024/149649152-284f7e01-1474-4a79-9e97-45ec79fc3830.png)
+
 #326CE5
 #2496ED
 <!--
@@ -19,3 +19,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+  
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://g1-kim.tistory.com/)
+	
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jiwon-kim-73816b203/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwdalnim@gmail.com)](mailto:jwdalnim@gmail.com)
+	
