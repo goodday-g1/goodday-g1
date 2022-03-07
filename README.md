@@ -3,8 +3,6 @@
 Hi there ! I'm Engineer Jiwon Kim!
 
 
-#326CE5
-#2496ED
 <!--
 **goodday-g1/goodday-g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
