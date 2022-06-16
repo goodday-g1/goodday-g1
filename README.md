@@ -3,19 +3,19 @@
 Hi there ! I'm Engineer Jiwon Kim!
 
 
-<!--
-**goodday-g1/goodday-g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+✨ _G1_Kim_ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Bigdata Platform Engineer, Based on Kubernetes.
+- 🌱 I’m currently learning Bigdata and Java for Developing
+- 👯 I’m looking to collaborate on other people.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about everything
+- 📫 How to reach me: please send me mail.
+- 😄 Pronouns: Let's Enjoy Our Time!
+- ⚡ Fun fact: too many
 -->
 
 
