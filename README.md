@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=G1's%20Porfolio&fontSize=90)
 </h3>
 
-<div align="center"> Hi there 👋</div>
-<div align="center"> Hi there ! I'm Engineer Jiwon Kim!</div>
+<div align="center"> Hi there 👋 I'm Engineer Jiwon Kim!</div>
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
