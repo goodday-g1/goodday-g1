@@ -3,13 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=G1's%20Porfolio&fontSize=90)
 </h3>
 
+<div align="center"> Hi there 👋</div>
+<div align="center"> Hi there ! I'm Engineer Jiwon Kim!</div>
 
-### Hi there 👋
-
-Hi there ! I'm Engineer Jiwon Kim!
-
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -29,19 +26,16 @@ Hi there ! I'm Engineer Jiwon Kim!
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-  <p align="center">
+<div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodday-g1)](https://github.com/goodday-g1/github-readme-stats)
-
- </p>
-
-
+</div>
 
 <br>
 <br>
 
 
-<h3 align="center"> 🙋‍♀️ G1_Kim 🙋‍♀️ </h3>
+<h2 align="center"> 🙋‍♀️ G1_Kim 🙋‍♀️ </h2>
 
 Hello, World  
 I'm Data Engineer who loving World !
