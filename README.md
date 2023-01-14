@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
   
 </p>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodday-g1)](https://github.com/goodday-g1/github-readme-stats)
-</div>
-
 <br>
 <br>
 
@@ -57,12 +51,3 @@ I'm Data Engineer who loving World !
   <a href="mailto:jwdalnim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jwdalnim@gmail.com"/></a>&nbsp
   <a href="https://www.linkedin.com/in/jiwon-kim-73816b203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-kim-73816b203"/></a>
 </p>
-
-  <div align=center>
-  
-  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=goodday-g1&show_icon=true)](https://github.com/goodday-g1)
-  </div>
-    <div align=right>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodday-g1)](https://github.com/goodday-g1) 
-  </div>
