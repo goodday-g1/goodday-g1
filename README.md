@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=G1's%20Porfolio&fontSize=90)
 </h3>
 
-<div align="center"> Hi there 👋 I'm Engineer Jiwon Kim!</div>
+<div align="center"> Hi there 👋 I'm Dev-Ops Engineer Jiwon Kim!</div>
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
@@ -32,10 +32,10 @@
 <h2 align="center"> 🙋‍♀️ G1_Kim 🙋‍♀️ </h2>
 
 Hello, World  
-I'm Data Engineer who loving World !
+I'm Dev-Ops & Data Engineer who loving World !
 
-- 🔭 I’m currently working As Bigdata Platform Engineer, Based on Kubernetes.
-- 🌱 I’m currently learning Bigdata Analysis and Python for Developing
+- 🔭 I’m currently working As Bigdata Platform Engineer, Based on Public Cloud (like Kubernetes).
+- 🌱 I’m currently learning Bigdata Analysis based on Python and Developing
 - 👯 I’m looking to collaborate on other people who loving data
 - 💬 Ask me about everything
 - 📫 How to reach me: please send me mail.
