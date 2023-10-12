@@ -47,7 +47,7 @@ I'm Dev-Ops & Data Engineer who loving World !
 
 <p align="center">
   <a href="https://g1-kim.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://g1-kim.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/g1_kim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g1_kim"/></a>&nbsp
+  <a href="https://www.instagram.com/g1_kim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g1_1110_"/></a>&nbsp
   <a href="mailto:jwdalnim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jwdalnim@gmail.com"/></a>&nbsp
   <a href="https://www.linkedin.com/in/jiwon-kim-73816b203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-kim-73816b203"/></a>
 </p>
